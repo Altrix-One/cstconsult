@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'Flaticon';
+	src: url(../../assets/fonts/Flaticon-e93c32a9a2040911ddbc70bdafaa4ad5.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Flaticon-e93c32a9a2040911ddbc70bdafaa4ad5.eot) format('embedded-opentype'),
+	url(../../assets/fonts/Flaticon-05b38ab00a7fd45211a56667d05083b3.woff2) format('woff2'),
+	url(../../assets/fonts/Flaticon-7e8548eb9b727e01bc98ad825af9b715.woff) format('woff'),
+	url(../../assets/fonts/Flaticon-6c3a58030ec8492d3f5515048d404a52.ttf) format('truetype'),
+	url(../../assets/fonts/Flaticon-ef2d1fb14427c861d116d24ec37f50e1.svg) format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: auto;
+}
